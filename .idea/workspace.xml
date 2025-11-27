@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f97d83-7fdb-40e7-9787-6a66122f2370" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Liquid_sphere_volume.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a_z.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ab_cd_ef_gh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homologous_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letters-by_three.pyi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letters_ab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words_commas_in_fike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words_in_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animated_countdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big_animated_countdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_in_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_exec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sleep+1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sleep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tojson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocabulary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,58 +30,79 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Stub" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="35xfsOlOTwTQ8PLJj7KGgbh44yX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Liquid_sphere_volume.executor": "Debug",
-    "Python.a_z.executor": "Debug",
-    "Python.ab_cd_ef_gh.executor": "Debug",
-    "Python.dict2.executor": "Debug",
-    "Python.dict3.executor": "Debug",
-    "Python.dictionary.executor": "Debug",
-    "Python.dirmath.executor": "Debug",
-    "Python.homologous_sum.executor": "Debug",
-    "Python.lambda.executor": "Debug",
-    "Python.list1.executor": "Debug",
-    "Python.math.executor": "Debug",
-    "Python.num_print.executor": "Debug",
-    "Python.print_allphabet.executor": "Debug",
-    "Python.remove_duplicate.executor": "Debug",
-    "Python.string_count.executor": "Debug",
-    "Python.string_range.executor": "Debug",
-    "Python.vjezba1.executor": "Debug",
-    "Python.words_commas_in_fike.executor": "Debug",
-    "Python.words_in_file.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Liquid_sphere_volume.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.a_z.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ab_cd_ef_gh.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.add_dict.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.animated_countdown.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.big_animated_countdown.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.count_in_url.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.countdown.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dict2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dict3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dict4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dirmath.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.enumerate.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.google_search.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.homologous_sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.json.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.json_exec.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lambda.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.list1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.math.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.num_print.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.print_allphabet.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.print_url.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.remove_duplicate.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.requests.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.requests1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sleep+1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sleep.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.string_count.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.string_range.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.tojson.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.url.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.vjezba1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.vocabulary.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.words_commas_in_fike.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.words_in_file.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.ab_cd_ef_gh">
-    <configuration name="a_z" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.big_animated_countdown">
+    <configuration name="animated_countdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ardit_sulce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +116,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a_z.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animated_countdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ab_cd_ef_gh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="big_animated_countdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ardit_sulce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +139,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ab_cd_ef_gh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/big_animated_countdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dirmath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count_in_url" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ardit_sulce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +162,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dirmath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_in_url.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homologous_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="countdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ardit_sulce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homologous_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/countdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="google_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ardit_sulce" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +208,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/google_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ab_cd_ef_gh" />
-        <item itemvalue="Python.homologous_sum" />
-        <item itemvalue="Python.a_z" />
-        <item itemvalue="Python.dirmath" />
-        <item itemvalue="Python.math" />
+        <item itemvalue="Python.big_animated_countdown" />
+        <item itemvalue="Python.animated_countdown" />
+        <item itemvalue="Python.countdown" />
+        <item itemvalue="Python.google_search" />
+        <item itemvalue="Python.count_in_url" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +242,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764056849719</updated>
-      <workItem from="1764056851013" duration="19112000" />
+      <workItem from="1764056851013" duration="19455000" />
+      <workItem from="1764150490923" duration="2305000" />
+      <workItem from="1764163903508" duration="7009000" />
+      <workItem from="1764229147418" duration="2497000" />
     </task>
     <servers />
   </component>
@@ -237,23 +265,38 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ardit_sulce$dict2.coverage" NAME="dict2 Coverage Results" MODIFIED="1764068784342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$sleep.coverage" NAME="sleep Coverage Results" MODIFIED="1764170175734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$print_url.coverage" NAME="print_url Coverage Results" MODIFIED="1764174716916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$add_dict.coverage" NAME="add_dict Coverage Results" MODIFIED="1764151073436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$math.coverage" NAME="math Coverage Results" MODIFIED="1764078036354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$words_commas_in_fike.coverage" NAME="words_commas_in_fike Coverage Results" MODIFIED="1764077606690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$json_exec.coverage" NAME="json_exec Coverage Results" MODIFIED="1764152458462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$json.coverage" NAME="tojson Coverage Results" MODIFIED="1764165311336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$string_count.coverage" NAME="string_count Coverage Results" MODIFIED="1764074770580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$sleep_1.coverage" NAME="sleep+1 Coverage Results" MODIFIED="1764170773576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$animated_countdown.coverage" NAME="animated_countdown Coverage Results" MODIFIED="1764230466345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$string_range.coverage" NAME="string_range Coverage Results" MODIFIED="1764062133415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$words_in_file.coverage" NAME="words_in_file Coverage Results" MODIFIED="1764077100015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$dict3.coverage" NAME="dict3 Coverage Results" MODIFIED="1764069373512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$num_print.coverage" NAME="num_print Coverage Results" MODIFIED="1764070995904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$requests.coverage" NAME="url Coverage Results" MODIFIED="1764174514525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$print_allphabet.coverage" NAME="print_allphabet Coverage Results" MODIFIED="1764070039560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$vjezba1.coverage" NAME="vjezba1 Coverage Results" MODIFIED="1764058111867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1764060955144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ardit_sulce$math.coverage" NAME="math Coverage Results" MODIFIED="1764078036354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$vocabulary.coverage" NAME="vocabulary Coverage Results" MODIFIED="1764174067767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$a_z.coverage" NAME="a_z Coverage Results" MODIFIED="1764084493298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ardit_sulce$words_commas_in_fike.coverage" NAME="words_commas_in_fike Coverage Results" MODIFIED="1764077606690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ardit_sulce$string_count.coverage" NAME="string_count Coverage Results" MODIFIED="1764074770580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1764169870020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$count_in_url.coverage" NAME="count_in_url Coverage Results" MODIFIED="1764175096597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1764068014982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ardit_sulce$string_range.coverage" NAME="string_range Coverage Results" MODIFIED="1764062133415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$dict4.coverage" NAME="dict4 Coverage Results" MODIFIED="1764150846775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$countdown.coverage" NAME="countdown Coverage Results" MODIFIED="1764229986713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$remove_duplicate.coverage" NAME="remove_duplicate Coverage Results" MODIFIED="1764067160036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$ab_cd_ef_gh.coverage" NAME="ab_cd_ef_gh Coverage Results" MODIFIED="1764085404156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$google_search.coverage" NAME="google_search Coverage Results" MODIFIED="1764175350135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$dirmath.coverage" NAME="dirmath Coverage Results" MODIFIED="1764078356653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$Liquid_sphere_volume.coverage" NAME="Liquid_sphere_volume Coverage Results" MODIFIED="1764073064891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ardit_sulce$words_in_file.coverage" NAME="words_in_file Coverage Results" MODIFIED="1764077100015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1764058852257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ardit_sulce$dict3.coverage" NAME="dict3 Coverage Results" MODIFIED="1764069373512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ardit_sulce$homologous_sum.coverage" NAME="homologous_sum Coverage Results" MODIFIED="1764084973367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ardit_sulce$big_animated_countdown.coverage" NAME="big_animated_countdown Coverage Results" MODIFIED="1764231043993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
